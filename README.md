@@ -98,9 +98,9 @@ We leveraged a combination of deep learning, forecasting, and scraping tools:
 - **Hyperparameter Tuning Boosted Model Performance**: Optuna-led optimizations significantly **reduced forecasting errors**.
  
 <p align="center">
-  <img width="500" alt="Screenshot 2025-02-09 at 1 14 16 AM" src="https://github.com/user-attachments/assets/45b17e3c-dc3a-441c-aedc-e16fb4bfc00">
-
+  <img src="https://github.com/user-attachments/assets/335e75ca-3f33-4b0c-bd19-4aad7cb33189" alt="Screenshot 2025-02-09 at 1 14 16 AM">
 </p>
+
 
 ---
 
