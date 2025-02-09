@@ -106,7 +106,7 @@ We leveraged a combination of deep learning, forecasting, and scraping tools:
 ## 📫 Contact  
 
 For more details, reach out to:  
-- **Uday Sapra**  
+- **Uday Sapra**, **Richie Zhang**,  **Rohan Sanghrajka**    
 - Email: [uday.sapra@stern.nyu.edu](mailto:uday.sapra@stern.nyu.edu)  
 - LinkedIn: [Uday Sapra](https://www.linkedin.com/in/uday-sapra/)  
 
