@@ -95,7 +95,11 @@ We leveraged a combination of deep learning, forecasting, and scraping tools:
 ## 📊 Results & Insights
 - **Transformers Outperformed Traditional Models**: PatchTST and TFT captured **complex dependencies** better than ARIMAX/SARIMA.  
 - **Sentiment-Driven Signals Improved Accuracy**: Incorporating geopolitical and economic sentiment **enhanced model predictive power**.  
-- **Hyperparameter Tuning Boosted Model Performance**: Optuna-led optimizations significantly **reduced forecasting errors**.  
+- **Hyperparameter Tuning Boosted Model Performance**: Optuna-led optimizations significantly **reduced forecasting errors**.
+
+- 
+![Screenshot 2025-02-08 at 7 21 04 PM](https://github.com/user-attachments/assets/95cd4a49-01df-47ff-aedd-87e40141bedd)
+
 
 ---
 
